@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACN,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;;AAGf,gBAAE;EACE,OAAO,EAAE,YAAY;EACrB,YAAY,EAAE,GAAG;EACjB,MAAM,EAAE,eAAe;EACvB,IAAI,EAAE,kBAAkB;EACxB,SAAS,EAAE,IAAI;;AAEnB,sBAAgC;EAC5B,gBAAgB,EAAE,GAAG;EACrB,UAAU,EAAE,gBAAoC;EAChD,0BAA0B,EAAE,MAAM",
+"sources": ["Menu.module.sass"],
+"names": [],
+"file": "Menu.module.css"
+}
